@@ -21,7 +21,7 @@ if (l > 5)
 }
 else if (l == 0)
 {
-	printf("0\n";
+	printf("0\n");
 }
 else
 {
