@@ -1,13 +1,12 @@
-/**
+/*
  * File: 1-alphabet.c
  * Auth: Jabulani Tshabalala
  */
+
 #include "main.h"
 
 /**
- * print the alphabet in lowercase
- *
- * Return: 0 (Success)
+ * print_alphabet - print the alphabet in lowercase, followed by a new line.
  */
 void print_alphabet(void)
 {
