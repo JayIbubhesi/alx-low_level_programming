@@ -1,10 +1,11 @@
 /**
- * file: 1-alphabet.c
+ * File: 1-alphabet.c
  * Auth: Jabulani Tshabalala
  */
 #include "main.h"
+
 /**
- * main - print the alphabet in lowercase
+ * print the alphabet in lowercase
  *
  * Return: 0 (Success)
  */
