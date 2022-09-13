@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 /**
  * main - print lowcase alphabet *10
  *
@@ -10,7 +10,7 @@ char c;
 for (i = 0; i < 10; i++)
 {
 	for (c = 'a'; c <= 'z'; c++)
-		putchar(c);
-	putchar('\n');
+		_putchar(c);
+	_putchar('\n');
 }
 }
