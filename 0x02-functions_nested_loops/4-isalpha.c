@@ -1,4 +1,10 @@
+/*
+ * File: 4-isalpha.c
+ * Auth: Jabulani Tshabalala
+ */
+
 #include "main.h"
+
 /**
  * main
  *

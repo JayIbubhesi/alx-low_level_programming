@@ -1,4 +1,10 @@
+/*
+ * File: 3-islower.c
+ * Auth: Jabulani Tshabalala
+ */
+
 #include "main.h"
+
 /**
  * main
  *
