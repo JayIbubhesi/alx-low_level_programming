@@ -1,3 +1,7 @@
+/**
+ * file: 2-print_alphabet_x10
+ * Auth: Jabulani Tshabalala
+ */
 #include "main.h"
 /**
  * main - print lowcase alphabet *10
