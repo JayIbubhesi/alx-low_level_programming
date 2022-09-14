@@ -1,23 +1,23 @@
 /*
- * File: 8-24_hours.c  
+ * File: 8-24_hours.c
  * Auth: Jabulani Tshabalala
  */
 
 #include "main.h"
 
 /**
- * Jack_bauer - func that prints every minute of the day.
+ * jack_bauer - func that prints every minute of the day.
  * @n from 00:00 to 23:59.
  *
  * Return: Always 0.
  */
-
 void jack_bauer(void)
 {
 	int hours = 0;
 	int minutes = 0;
 	int hours_remainder;
 	int mins_remainder;
+
 	while (hours <= 23)
 	{
 	while (minutes <= 59)
