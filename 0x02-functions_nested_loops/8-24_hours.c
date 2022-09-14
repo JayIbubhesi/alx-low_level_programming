@@ -7,7 +7,7 @@
 
 /**
  * jack_bauer - func that prints every minute of the day.
- * @n from 00:00 to 23:59.
+ * Description: print every min of the day
  *
  * Return: Always 0.
  */
